@@ -1,0 +1,700 @@
+{"Video": "CameraRecord1.mp4", "Question": "Tell me the number of cars appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord1.mp4", "Question": "Did the accident happen in this video?", "label": "No"}
+{"Video": "CameraRecord1.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord1.mp4", "Question": "Please tell me all kinds of traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "CameraRecord1.mp4", "Question": "Is there any lane experiencing significant congestion or slowdowns?", "label": "No"}
+{"Video": "CameraRecord1.mp4", "Question": "I am waiting traffic light. Please let me know if there are car accidents.", "label": "No"}
+{"Video": "CameraRecord1.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord2.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord2.mp4", "Question": "Are there any bicycles within the first two seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord2.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord2.mp4", "Question": "Please tell me wether there is an accident in the video?", "label": "No"}
+{"Video": "CameraRecord2.mp4", "Question": "Did a person cross the road in the first second of this video?", "label": "No"}
+{"Video": "CameraRecord2.mp4", "Question": "How many motorcyclists wearing helmet in the whole video?", "label": "No"}
+{"Video": "CameraRecord2.mp4", "Question": "Did a car turn right at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord3.mp4", "Question": "Which kind of traffic sign appear at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord3.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord3.mp4", "Question": "Was there any motorcycles appear in the video?", "label": "Yes"}
+{"Video": "CameraRecord3.mp4", "Question": "Is there a person crossing my driving lane?", "label": "No"}
+{"Video": "CameraRecord3.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "CameraRecord3.mp4", "Question": "Can the video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "CameraRecord3.mp4", "Question": "Please tell me the time when the video was taken.", "label": "No"}
+{"Video": "CameraRecord4.mp4", "Question": "Tell me if the road at the 2th second of this video have speed limit sign.", "label": "Yes"}
+{"Video": "CameraRecord4.mp4", "Question": "Are there any cars coming from opposite directions?", "label": "No"}
+{"Video": "CameraRecord4.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord4.mp4", "Question": "Are there any bicycles within the last five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord4.mp4", "Question": "How many cars turned right in the whole video?", "label": "No"}
+{"Video": "CameraRecord4.mp4", "Question": "Please tell the position and time stamp of the accident in the video.", "label": "No"}
+{"Video": "CameraRecord4.mp4", "Question": "Did a vehicle violate any traffic signs?", "label": "No"}
+{"Video": "CameraRecord5.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord5.mp4", "Question": "Please tell me the ratio of trucks in this video at the 8th second.", "label": "Yes"}
+{"Video": "CameraRecord5.mp4", "Question": "Are there any cars driving backwards at the 2nd second of the video?", "label": "No"}
+{"Video": "CameraRecord5.mp4", "Question": "Tell me if the vehicle with license plate number \"GD-BB732P\" appeared in the last five seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord5.mp4", "Question": "Did a car take a U-turn in the video?", "label": "No"}
+{"Video": "CameraRecord5.mp4", "Question": "Please tell me if there is a traffic accident in the video.", "label": "No"}
+{"Video": "CameraRecord5.mp4", "Question": "Did a car start moving at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord6.mp4", "Question": "hat types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord6.mp4", "Question": "Please tell me the proportion of truck at the 5th second of this video.", "label": "Yes"}
+{"Video": "CameraRecord6.mp4", "Question": "Tell me if the vehicle with license plate number \"GD-BE6N87\" appeared in the first two seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord6.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "CameraRecord6.mp4", "Question": "Tell me if there is any car doing lane changing in the 4nd second of the video.", "label": "No"}
+{"Video": "CameraRecord6.mp4", "Question": "Is there a person crossing my driving lane?", "label": "No"}
+{"Video": "CameraRecord6.mp4", "Question": "What is the vehicle type of the vehicle with license plate number \"GD-BE6N87\"?", "label": "No"}
+{"Video": "CameraRecord7.mp4", "Question": "Please tell me if there is a gas station in the video.", "label": "No"}
+{"Video": "CameraRecord7.mp4", "Question": "Provide me the number of vehicles appeared at the 10th frame of the video.", "label": "Yes"}
+{"Video": "CameraRecord7.mp4", "Question": "Does the road have lane markings in the video?", "label": "Yes"}
+{"Video": "CameraRecord7.mp4", "Question": "Please tell all the traffic signs appear at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord7.mp4", "Question": "Is there a person crossing my driving lane?", "label": "No"}
+{"Video": "CameraRecord7.mp4", "Question": "Do first 2 seconds of the video show any areas of potholes or uneven road surfaces?", "label": "No"}
+{"Video": "CameraRecord7.mp4", "Question": "Did a car change its lane in the video?", "label": "No"}
+{"Video": "CameraRecord8.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord8.mp4", "Question": "Tell me if there are any pedestrians in the 9th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord8.mp4", "Question": "Did any parts of the vehicle fall off at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord8.mp4", "Question": "re there any bicycles within the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord8.mp4", "Question": "Please tell me the location where the video was taken", "label": "No"}
+{"Video": "CameraRecord8.mp4", "Question": "Are there any visible road cracks present in the whole video?", "label": "No"}
+{"Video": "CameraRecord8.mp4", "Question": "Did the accident happen in the crossroad?", "label": "No"}
+{"Video": "CameraRecord9.mp4", "Question": "Please tell me all kinds of traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "CameraRecord9.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "CameraRecord9.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord9.mp4", "Question": "Provide me the number of trucks appeared at the 13th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord9.mp4", "Question": "Tell me the color of the vehicle with license plate number \"GD-S781QY\".", "label": "No"}
+{"Video": "CameraRecord9.mp4", "Question": "When was this video taken?", "label": "No"}
+{"Video": "CameraRecord9.mp4", "Question": "Did a car take a U-turn in the video?", "label": "No"}
+{"Video": "CameraRecord10.mp4", "Question": "Did a car take a U-turn in the video?", "label": "No"}
+{"Video": "CameraRecord10.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord10.mp4", "Question": "How many vehicles appeared in the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord10.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord10.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord10.mp4", "Question": "Did a truck knock down any one in the first 5 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord10.mp4", "Question": "Was there any emergency car in the video?", "label": "No"}
+{"Video": "CameraRecord11.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "CameraRecord11.mp4", "Question": "Was there a collision in the video?", "label": "No"}
+{"Video": "CameraRecord11.mp4", "Question": "Please tell me the ratio of trucks in this video at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord11.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord11.mp4", "Question": "Please tell me the location of bicycles in the video.", "label": "No"}
+{"Video": "CameraRecord11.mp4", "Question": "What is the color of the traffic light in the video?", "label": "No"}
+{"Video": "CameraRecord11.mp4", "Question": "Tell me if there is an accident occurring in this video", "label": "No"}
+{"Video": "CameraRecord12.mp4", "Question": "Are there any buses in the video?", "label": "Yes"}
+{"Video": "CameraRecord12.mp4", "Question": "Was anyone visibly injured by the collision?", "label": "No"}
+{"Video": "CameraRecord12.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord12.mp4", "Question": "Please tell me the specific time frames of license plate number \"GD-S78IQY\" each appearance?", "label": "Yes"}
+{"Video": "CameraRecord12.mp4", "Question": "Did a truck knock down any one in the first 5 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord12.mp4", "Question": "Tell me if there is a black SUV turning right in the 3rd second of the video.", "label": "No"}
+{"Video": "CameraRecord12.mp4", "Question": "Tell me if there is an accident occurring in this video", "label": "No"}
+{"Video": "CameraRecord13.mp4", "Question": "Are there any instances of people or cyclists entering motor vehicle lanes unsafely?", "label": "No"}
+{"Video": "CameraRecord13.mp4", "Question": "Are there any motorcycle at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord13.mp4", "Question": "Please tell me if any fire hydrant appeared in the video.", "label": "Yes"}
+{"Video": "CameraRecord13.mp4", "Question": "Please tell me the proportion of truck at the 5th second of this video.", "label": "Yes"}
+{"Video": "CameraRecord13.mp4", "Question": "Was anyone visibly injured by the collision?", "label": "No"}
+{"Video": "CameraRecord13.mp4", "Question": "Can you detect water accumulation and slippery road conditions in the whole video?", "label": "No"}
+{"Video": "CameraRecord13.mp4", "Question": "Please tell the position and time stamp of the accident in the video.", "label": "No"}
+{"Video": "CameraRecord14.mp4", "Question": "Please tell me if any red cars appeared at the 2nd second in the video.", "label": "Yes"}
+{"Video": "CameraRecord14.mp4", "Question": "Did a car change its lane in the video?", "label": "No"}
+{"Video": "CameraRecord14.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord14.mp4", "Question": "Provide me the number of vehicles appeared at the 10th frame of the video.", "label": "Yes"}
+{"Video": "CameraRecord14.mp4", "Question": "Is there a person crossing my driving lane?", "label": "No"}
+{"Video": "CameraRecord14.mp4", "Question": "Was the motorcyclist wearing a helmet in the video?", "label": "No"}
+{"Video": "CameraRecord14.mp4", "Question": "Do vehicles in the video appear to be complying with the traffic lights?", "label": "No"}
+{"Video": "CameraRecord15.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord15.mp4", "Question": "Tell me if there are any trees visible along the road in the video.", "label": "No"}
+{"Video": "CameraRecord15.mp4", "Question": "Was there a pedestrian crossing sign at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord15.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord15.mp4", "Question": "Tell me the color of traffic light at the 7th second of the video?", "label": "No"}
+{"Video": "CameraRecord15.mp4", "Question": "Tell me if there is a black sedan turning right in the 3rd second of the video.", "label": "No"}
+{"Video": "CameraRecord15.mp4", "Question": "Did a car violate the traffic light in the first 2 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord16.mp4", "Question": "I am driving slowly. Please let me know if there are car accidents.", "label": "No"}
+{"Video": "CameraRecord16.mp4", "Question": "Please tell me if there is a red SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "CameraRecord16.mp4", "Question": "Tell me the number of cars appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord16.mp4", "Question": "Which kind of traffic sign appear at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord16.mp4", "Question": "Are there any non-motorized vehicles passing through the driveway?", "label": "No"}
+{"Video": "CameraRecord16.mp4", "Question": "Please tell me if there is a traffic accident in the video.", "label": "No"}
+{"Video": "CameraRecord16.mp4", "Question": "Tell me if there is a black SUV turning left in the 3rd second of the video.", "label": "No"}
+{"Video": "CameraRecord17.mp4", "Question": "Please tell me the specific time frames of license plate number \"GD-B5D7V2\" each appearance?", "label": "Yes"}
+{"Video": "CameraRecord17.mp4", "Question": "Tell me the color of the vehicle with license plate number \"GD-B5D7V2\".", "label": "No"}
+{"Video": "CameraRecord17.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "CameraRecord17.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "CameraRecord17.mp4", "Question": "Can you detect water accumulation and slippery road conditions in the whole video?", "label": "No"}
+{"Video": "CameraRecord17.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "CameraRecord17.mp4", "Question": "Did a bus change its lane in the video?", "label": "No"}
+{"Video": "CameraRecord18.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord18.mp4", "Question": "Please tell me the ratio of buses in this video at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord18.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "CameraRecord18.mp4", "Question": "Provides me the number of lanes the road has in the first 3 seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord18.mp4", "Question": "Are there any non-motorized vehicles occupying the driveway?", "label": "No"}
+{"Video": "CameraRecord18.mp4", "Question": "Was there a collision between cars?", "label": "No"}
+{"Video": "CameraRecord18.mp4", "Question": "Is there any bus changing its lane at the 10th second of the video?", "label": "No"}
+{"Video": "CameraRecord19.mp4", "Question": "Are there any bicycles in the last five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord19.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord19.mp4", "Question": "Was the motorcyclist in the video wearing helmat?", "label": "No"}
+{"Video": "CameraRecord19.mp4", "Question": "Provides me the number of lanes the road has in the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord19.mp4", "Question": "Are there any cars signalling left or right turn at the 3rd second of the video?", "label": "No"}
+{"Video": "CameraRecord19.mp4", "Question": "Did the accident happen in the video?", "label": "No"}
+{"Video": "CameraRecord19.mp4", "Question": "Please tell me all the lane types in the video", "label": "No"}
+{"Video": "CameraRecord20.mp4", "Question": "Did an accident happen at the 3rd second of the video?", "label": "No"}
+{"Video": "CameraRecord20.mp4", "Question": "Please tell me all the lisence plate number appeared in this video.", "label": "Yes"}
+{"Video": "CameraRecord20.mp4", "Question": "Tell me the type of traffic signs appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord20.mp4", "Question": "Are there any buses in the video?", "label": "Yes"}
+{"Video": "CameraRecord20.mp4", "Question": "Could you let me know if a traffic accident occurs in the video?", "label": "No"}
+{"Video": "CameraRecord20.mp4", "Question": "Please tell me of vehicles' license plate number which are about to drive through the crossroad.", "label": "No"}
+{"Video": "CameraRecord20.mp4", "Question": "Did the vehicle's turn cause a traffic accident?", "label": "No"}
+{"Video": "CameraRecord21.mp4", "Question": "Provide me the number of vehicles appeared at the 10th frame of the video.", "label": "Yes"}
+{"Video": "CameraRecord21.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord21.mp4", "Question": "Are there any bicycles in the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord21.mp4", "Question": "Is there any pedestrian using the zebra crossing in the video at the 10th second of the video?", "label": "No"}
+{"Video": "CameraRecord21.mp4", "Question": "Please tell me if there is a collision in the video.", "label": "No"}
+{"Video": "CameraRecord21.mp4", "Question": "Please tell me the location of bicycles in the video.", "label": "No"}
+{"Video": "CameraRecord21.mp4", "Question": "Could you let me know if a traffic accident occurs in the video?", "label": "No"}
+{"Video": "CameraRecord22.mp4", "Question": "Please count the number of sedans in first five seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "CameraRecord22.mp4", "Question": "Please tell me all kinds of traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "CameraRecord22.mp4", "Question": "How did the truck get involved in the accident in the first 2 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord22.mp4", "Question": "Please tell me the proportion of truck at the 5th second of this video.", "label": "Yes"}
+{"Video": "CameraRecord22.mp4", "Question": "Is there any lane experiencing significant congestion or slowdowns?", "label": "No"}
+{"Video": "CameraRecord22.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "CameraRecord22.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord23.mp4", "Question": "Are there any pedestrians in the last 5 seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord23.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord23.mp4", "Question": "Tell me the number of vehicles appeared in the video.", "label": "Yes"}
+{"Video": "CameraRecord23.mp4", "Question": "Tell me the color of the bus with license plate number \"GD-B31901D\".", "label": "No"}
+{"Video": "CameraRecord23.mp4", "Question": "Was there any police officer nearby when the collision occur?", "label": "No"}
+{"Video": "CameraRecord23.mp4", "Question": "Are there any instances of people or cyclists entering motor vehicle lanes unsafely?", "label": "No"}
+{"Video": "CameraRecord23.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord24.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord24.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord24.mp4", "Question": "Is there a crossroad in the video?", "label": "No"}
+{"Video": "CameraRecord24.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "CameraRecord24.mp4", "Question": "Please tell me the location of bicycles in the video.", "label": "No"}
+{"Video": "CameraRecord24.mp4", "Question": "Did the accident happen when any of the involved cars turned right or left?", "label": "No"}
+{"Video": "CameraRecord24.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord25.mp4", "Question": "Tell me if there are any pedestrian related traffic sign in first five seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord25.mp4", "Question": "Is there a grey car at the 5th frame in this video?", "label": "Yes"}
+{"Video": "CameraRecord25.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord25.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord25.mp4", "Question": "What is the vehicle type of the vehicle with license plate number \"GD-BB4D099\"?", "label": "No"}
+{"Video": "CameraRecord25.mp4", "Question": "Did a person cross the road in the first second of this video?", "label": "No"}
+{"Video": "CameraRecord25.mp4", "Question": "Did any vehicles turn at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord26.mp4", "Question": "Tell me if the vehicle with license plate number \"GD-B92012D\" appeared in the first two seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord26.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord26.mp4", "Question": "Is there a grey SUV at the 5th frame in this video?", "label": "Yes"}
+{"Video": "CameraRecord26.mp4", "Question": "Are there any traffic lights appeared during the fifth second and the tenth second in this video? ", "label": "Yes"}
+{"Video": "CameraRecord26.mp4", "Question": "Were the vehicles close to each other in the video?", "label": "No"}
+{"Video": "CameraRecord26.mp4", "Question": "Did a white sedan turn right in the first 5 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord26.mp4", "Question": "Was there a black SUV surpass other cars at the fifth second of the video.", "label": "No"}
+{"Video": "CameraRecord27.mp4", "Question": "Please tell me if there is a traffic accident in the video.", "label": "No"}
+{"Video": "CameraRecord27.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "CameraRecord27.mp4", "Question": "Please tell me all the traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "CameraRecord27.mp4", "Question": "Please tell me if any red cars appeared at the 2nd second in the video.", "label": "Yes"}
+{"Video": "CameraRecord27.mp4", "Question": "Can the system detect and verify the presence of lane markings (such as solid lines, dashed lines, and arrows) on the road?", "label": "No"}
+{"Video": "CameraRecord27.mp4", "Question": "Explain the lane marking at the 7th second of the video.", "label": "No"}
+{"Video": "CameraRecord27.mp4", "Question": "Can the surveillance video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "CameraRecord28.mp4", "Question": "Are there any emergency cars within the first two seconds of the video?", "label": "No"}
+{"Video": "CameraRecord28.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord28.mp4", "Question": "Please tell me all kinds of traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "CameraRecord28.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord28.mp4", "Question": "What is the condition of the cars after the accident?", "label": "No"}
+{"Video": "CameraRecord28.mp4", "Question": "Is there a crossroad in the video?", "label": "No"}
+{"Video": "CameraRecord28.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord29.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord29.mp4", "Question": "Are there any pedestrians at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord29.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord29.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "CameraRecord29.mp4", "Question": "What is the condition of the cars after the accident?", "label": "No"}
+{"Video": "CameraRecord29.mp4", "Question": "Is there a crossroad in the video?", "label": "No"}
+{"Video": "CameraRecord29.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord30.mp4", "Question": "Are there any cars signalling left or right turn at the 3rd second of the video?", "label": "No"}
+{"Video": "CameraRecord30.mp4", "Question": "Please count the number of vehicles in first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord30.mp4", "Question": "Does the road have Speed Limit signs in the video?", "label": "Yes"}
+{"Video": "CameraRecord30.mp4", "Question": "Please tell me if any red cars appeared at the 2nd second in the video.", "label": "Yes"}
+{"Video": "CameraRecord30.mp4", "Question": "Are there any cars coming from opposite directions?", "label": "No"}
+{"Video": "CameraRecord30.mp4", "Question": "Please tell me if there are any emergency cars appear in the video.", "label": "No"}
+{"Video": "CameraRecord30.mp4", "Question": "Could you let me know if a traffic accident occurs in the video?", "label": "No"}
+{"Video": "CameraRecord31.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 10th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord31.mp4", "Question": "Are there any motorcycle at the 10th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord31.mp4", "Question": "Is there a white SUV at the 5th second in this video?", "label": "Yes"}
+{"Video": "CameraRecord31.mp4", "Question": "Was the motorcyclist wearing a helmet in the video?", "label": "No"}
+{"Video": "CameraRecord31.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord31.mp4", "Question": "Can you inform me if a traffic accident happens in the video?", "label": "No"}
+{"Video": "CameraRecord31.mp4", "Question": "Was the motorcyclist wearing a helmet in the video?", "label": "No"}
+{"Video": "CameraRecord32.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord32.mp4", "Question": "Tell me the number of traffic signs appeared in the video.", "label": "Yes"}
+{"Video": "CameraRecord32.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 13th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord32.mp4", "Question": "Tell me the number of people crossed the road in the full video.", "label": "No"}
+{"Video": "CameraRecord32.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord32.mp4", "Question": "Tell me the number of people crossed the road in the full video.", "label": "No"}
+{"Video": "CameraRecord32.mp4", "Question": "Did the vehicle's turn cause a traffic accident?", "label": "No"}
+{"Video": "CameraRecord33.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord33.mp4", "Question": "Did a person cross the road in the first second of this video?", "label": "No"}
+{"Video": "CameraRecord33.mp4", "Question": "Please count the number of sedans in first five seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "CameraRecord33.mp4", "Question": "Please tell all the traffic signs appear at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord33.mp4", "Question": "Are there any cars signalling left or right turn at the 3rd second of the video?", "label": "No"}
+{"Video": "CameraRecord33.mp4", "Question": "Did a car surpass another car in the video?", "label": "No"}
+{"Video": "CameraRecord33.mp4", "Question": "What are the specific locations of license plate number \"GD-BB4D099\" each appearance?", "label": "No"}
+{"Video": "CameraRecord34.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "CameraRecord34.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord34.mp4", "Question": "Please tell the color of cars which were involved in the accident.", "label": "No"}
+{"Video": "CameraRecord34.mp4", "Question": "Tell me the number of pedestrains appeared in the video.", "label": "Yes"}
+{"Video": "CameraRecord34.mp4", "Question": "Please tell the position and time stamp of the accident in the video.", "label": "No"}
+{"Video": "CameraRecord34.mp4", "Question": "Was anyone visibly injured in the video?", "label": "No"}
+{"Video": "CameraRecord34.mp4", "Question": "Did a car violate the traffic light in the video?", "label": "No"}
+{"Video": "CameraRecord35.mp4", "Question": "Please tell me if there is a red SUV at the 3th second the video.", "label": "Yes"}
+{"Video": "CameraRecord35.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord35.mp4", "Question": "Please tell me the weather when the video was taken", "label": "No"}
+{"Video": "CameraRecord35.mp4", "Question": "Please tell me the ratio of SUVs in this video at the 14th second.", "label": "Yes"}
+{"Video": "CameraRecord35.mp4", "Question": "Do vehicles in the video appear to be complying with the traffic signs?", "label": "No"}
+{"Video": "CameraRecord35.mp4", "Question": "Please inform me the number of cars turned left in the video.", "label": "No"}
+{"Video": "CameraRecord35.mp4", "Question": "Did a person cross the road in the first second of this video?", "label": "No"}
+{"Video": "CameraRecord36.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "CameraRecord36.mp4", "Question": "Are there any buses within the first two seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord36.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord36.mp4", "Question": "Please tell me the ratio of trucks in this video at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord36.mp4", "Question": "Could you let me know if a traffic accident occurs in the video?", "label": "No"}
+{"Video": "CameraRecord36.mp4", "Question": "What is the vehicle type of the vehicle with license plate number \"GD-BB4D099\"?", "label": "No"}
+{"Video": "CameraRecord36.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord37.mp4", "Question": "Please tell me the proportion of truck at the 5th second of this video.", "label": "Yes"}
+{"Video": "CameraRecord37.mp4", "Question": "Tell me if the road in this video have speed limit sign.", "label": "Yes"}
+{"Video": "CameraRecord37.mp4", "Question": "Please tell me if any cars with license plate number \"GD-B6UA98\" appeared in the first three seconds in the video.", "label": "Yes"}
+{"Video": "CameraRecord37.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord37.mp4", "Question": "Was anyone visibly injured by the collision?", "label": "No"}
+{"Video": "CameraRecord37.mp4", "Question": "Are there any cars coming from opposite directions?", "label": "No"}
+{"Video": "CameraRecord37.mp4", "Question": "Can the system detect and verify the presence of lane markings (such as solid lines, dashed lines, and arrows) on the road?", "label": "No"}
+{"Video": "CameraRecord38.mp4", "Question": "Please tell me if there is a traffic accident in the video.", "label": "No"}
+{"Video": "CameraRecord38.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord38.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord38.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord38.mp4", "Question": "What is the condition of the cars after the accident?", "label": "No"}
+{"Video": "CameraRecord38.mp4", "Question": "Tell me if there is an accident occurring in this video", "label": "No"}
+{"Video": "CameraRecord38.mp4", "Question": "Please tell me if there are any vehicles parking along the roads in the 5th second of this video.", "label": "No"}
+{"Video": "CameraRecord39.mp4", "Question": "Please tell me all type of traffic signs appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord39.mp4", "Question": "Please count the number of pedestrains in first five seconds of the video.", "label": "Yes"}
+{"Video": "CameraRecord39.mp4", "Question": "Please tell me if any fire hydrant appeared in the video.", "label": "Yes"}
+{"Video": "CameraRecord39.mp4", "Question": "What is the surrounding environment like at the 4th second of the video?", "label": "No"}
+{"Video": "CameraRecord39.mp4", "Question": "Please inform me the number of cars turned left in the video.", "label": "No"}
+{"Video": "CameraRecord39.mp4", "Question": "Is the emergency lane being misused at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord39.mp4", "Question": "Are there any instances of people or cyclists entering motor vehicle lanes unsafely?", "label": "No"}
+{"Video": "CameraRecord40.mp4", "Question": "Are there any white cars at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord40.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord40.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord40.mp4", "Question": "Are there any bicycles in the first five seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord40.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord40.mp4", "Question": "What is the surrounding environment like at the 4th second of the video?", "label": "No"}
+{"Video": "CameraRecord40.mp4", "Question": "Did a car surpass another car in the video?", "label": "No"}
+{"Video": "CameraRecord41.mp4", "Question": "Please tell me the ratio of trucks in this video at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord41.mp4", "Question": "Does the road have lane markings at the 1st second of the video?", "label": "Yes"}
+{"Video": "CameraRecord41.mp4", "Question": "Please tell all the traffic signs appear at the 1st second.", "label": "Yes"}
+{"Video": "CameraRecord41.mp4", "Question": "Tell me if there are any trees visible along the road in the video.", "label": "No"}
+{"Video": "CameraRecord41.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "CameraRecord41.mp4", "Question": "Does a fire station appear in the video?", "label": "No"}
+{"Video": "CameraRecord41.mp4", "Question": "I am driving slowly. Please let me know if there are car accidents.", "label": "No"}
+{"Video": "CameraRecord42.mp4", "Question": "Does the road have speed limit sign at the 8th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord42.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord42.mp4", "Question": "How many vehicles appeared in the whole video?", "label": "Yes"}
+{"Video": "CameraRecord42.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord42.mp4", "Question": "Tell me the color of the vehicle with license plate number \"GD-BB4D099\".", "label": "No"}
+{"Video": "CameraRecord42.mp4", "Question": "Did a car change its lane in the video?", "label": "No"}
+{"Video": "CameraRecord42.mp4", "Question": "Did the vehicle's turn cause a traffic accident?", "label": "No"}
+{"Video": "CameraRecord43.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord43.mp4", "Question": "Are there any instances of people or cyclists entering motor vehicle lanes unsafely?", "label": "No"}
+{"Video": "CameraRecord43.mp4", "Question": "Tell me the number of cars appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord43.mp4", "Question": "Are there any white cars at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord43.mp4", "Question": "Is there any lane experiencing significant congestion or slowdowns?", "label": "No"}
+{"Video": "CameraRecord43.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord43.mp4", "Question": "Did a truck turn right at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord44.mp4", "Question": "Tell me the number of lanes appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord44.mp4", "Question": "Please tell me the location where the video was taken.", "label": "No"}
+{"Video": "CameraRecord44.mp4", "Question": "Tell me the number of cars appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "CameraRecord44.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord44.mp4", "Question": "Is there any traffic light violation?", "label": "No"}
+{"Video": "CameraRecord44.mp4", "Question": "Can the surveillance video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "CameraRecord44.mp4", "Question": "Could you let me know if a traffic accident occurs in the video?", "label": "No"}
+{"Video": "CameraRecord45.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord45.mp4", "Question": "Can the system detect and verify the presence of lane markings (such as solid lines, dashed lines, and arrows) on the road?", "label": "No"}
+{"Video": "CameraRecord45.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord45.mp4", "Question": "Tell me the number of motorcycles appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord45.mp4", "Question": "Is there any pedestrian using the zebra crossing in the video at the 10th second of the video?", "label": "No"}
+{"Video": "CameraRecord45.mp4", "Question": "Did a pickup start moving at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord45.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord46.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord46.mp4", "Question": "Please tell me the traffic signs appeared in this video at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord46.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord46.mp4", "Question": "Tell me the number of people crossed the road in the full video.", "label": "No"}
+{"Video": "CameraRecord46.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "CameraRecord46.mp4", "Question": "Was anyone visibly injured by the collision?", "label": "No"}
+{"Video": "CameraRecord46.mp4", "Question": "What are the specific locations of license plate number \"GD-BB4D099\" each appearance?", "label": "No"}
+{"Video": "CameraRecord47.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord47.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "CameraRecord47.mp4", "Question": "Is there a grey car at the 5th frame in this video?", "label": "Yes"}
+{"Video": "CameraRecord47.mp4", "Question": "What's the condition of the road surface?", "label": "No"}
+{"Video": "CameraRecord47.mp4", "Question": "Did a car start moving at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord47.mp4", "Question": "How many motorcyclists wearing helmet in the whole video?", "label": "No"}
+{"Video": "CameraRecord47.mp4", "Question": "Please tell the color of cars which were involved in the accident.", "label": "No"}
+{"Video": "CameraRecord48.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord48.mp4", "Question": "Please tell me the proportion of truck at the 5th second of this video.", "label": "Yes"}
+{"Video": "CameraRecord48.mp4", "Question": "Did a car surpass another car in the video?", "label": "No"}
+{"Video": "CameraRecord48.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "CameraRecord48.mp4", "Question": "Were the vehicles close to each other in the video?", "label": "No"}
+{"Video": "CameraRecord48.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord48.mp4", "Question": "Is the emergency lane being misused at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord49.mp4", "Question": "Please count the number of sedans at the 5th seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "CameraRecord49.mp4", "Question": "Please tell me if any non-motorized vehicles appear in the video.", "label": "Yes"}
+{"Video": "CameraRecord49.mp4", "Question": "Are there any cars driving backwards at the 2nd second of the video?", "label": "No"}
+{"Video": "CameraRecord49.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord49.mp4", "Question": "Tell me if there is a black SUV turning right in the 3rd second of the video.", "label": "No"}
+{"Video": "CameraRecord49.mp4", "Question": "What are the specific locations of license plate number \"GD-BB4D099\" each appearance?", "label": "No"}
+{"Video": "CameraRecord49.mp4", "Question": "I am driving slowly. Please let me know if there are car accidents.", "label": "No"}
+{"Video": "CameraRecord50.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "CameraRecord50.mp4", "Question": "Do first 2 seconds of the video show any areas of potholes or uneven road surfaces?", "label": "No"}
+{"Video": "CameraRecord50.mp4", "Question": "Did a truck appear at the 12th second of the video?", "label": "Yes"}
+{"Video": "CameraRecord50.mp4", "Question": "Please tell me if there is a red SUV at the 3th second the video.", "label": "Yes"}
+{"Video": "CameraRecord50.mp4", "Question": "How many motorcyclists wearing helmet in the whole video?", "label": "No"}
+{"Video": "CameraRecord50.mp4", "Question": "How many cars turned right in the whole video?", "label": "No"}
+{"Video": "CameraRecord50.mp4", "Question": "Did a pickup start moving at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord51.mp4", "Question": "Tell me if the road at the 10th second of this video have speed limit sign.", "label": "Yes"}
+{"Video": "CameraRecord51.mp4", "Question": "Please tell all the traffic signs appear at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord51.mp4", "Question": "Please tell me the ratio of trucks in this video at the 5th frame.", "label": "Yes"}
+{"Video": "CameraRecord51.mp4", "Question": "Tell me if there are any trees visible along the road in the video.", "label": "No"}
+{"Video": "CameraRecord51.mp4", "Question": "Tell me the types of vehicles that did not move in the first two seconds of the video.", "label": "No"}
+{"Video": "CameraRecord51.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "CameraRecord51.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord52.mp4", "Question": "Please count the number of sedans at the fifth seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "CameraRecord52.mp4", "Question": "Does the road have lane markings at the 1st second of the video?", "label": "Yes"}
+{"Video": "CameraRecord52.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "CameraRecord52.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord52.mp4", "Question": "Did a car change its lane in the video?", "label": "No"}
+{"Video": "CameraRecord52.mp4", "Question": "Tell me the color of the vehicle with license plate number \"GD-BB4D099\".", "label": "No"}
+{"Video": "CameraRecord52.mp4", "Question": "Was there any police officer in the video?", "label": "No"}
+{"Video": "CameraRecord53.mp4", "Question": "Please tell me if any non-motorized vehicles appear in the video.", "label": "Yes"}
+{"Video": "CameraRecord53.mp4", "Question": "Tell me if there are any pedestrians in the fifth second of the video.", "label": "Yes"}
+{"Video": "CameraRecord53.mp4", "Question": "Please tell all the traffic signs appear at the 5th second.", "label": "Yes"}
+{"Video": "CameraRecord53.mp4", "Question": "Did a truck turn right at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord53.mp4", "Question": "Is there any vehicle doing lane changing in the video?", "label": "No"}
+{"Video": "CameraRecord53.mp4", "Question": "Please count the number of crossroads in the first 5 seconds of the video.", "label": "No"}
+{"Video": "CameraRecord53.mp4", "Question": "Did a car take a U-turn in the video?", "label": "No"}
+{"Video": "CameraRecord54.mp4", "Question": "Did a white sedan turn right in the first 5 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord54.mp4", "Question": "Are there any white cars at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord54.mp4", "Question": "Are there any white buses appear at the 1st second of the video?", "label": "Yes"}
+{"Video": "CameraRecord54.mp4", "Question": "Was there a pedestrian crossing sign at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord54.mp4", "Question": "Are there any visible road cracks present in the whole video?", "label": "No"}
+{"Video": "CameraRecord54.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord54.mp4", "Question": "Was there any accident in the video?", "label": "No"}
+{"Video": "CameraRecord55.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord55.mp4", "Question": "Please count the number of sedans at fifth seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "CameraRecord55.mp4", "Question": "Please tell me the license plate number appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "CameraRecord55.mp4", "Question": "Did a truck turn right at the 5th frame of the video?", "label": "No"}
+{"Video": "CameraRecord55.mp4", "Question": "Did any vehicles turn at the 5th second of the video?", "label": "No"}
+{"Video": "CameraRecord55.mp4", "Question": "What's the condition of the road surface?", "label": "No"}
+{"Video": "CameraRecord55.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "CameraRecord56.mp4", "Question": "Are there any motorcycle at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord56.mp4", "Question": "Are there any bicycles within the first two seconds of the video?", "label": "Yes"}
+{"Video": "CameraRecord56.mp4", "Question": "I am waiting for the traffic light. Please let me know vehicle density now.", "label": "No"}
+{"Video": "CameraRecord56.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "CameraRecord56.mp4", "Question": "Tell me the types of vehicles that did not move in the first two seconds of the video.", "label": "No"}
+{"Video": "CameraRecord56.mp4", "Question": "Did a truck get involved in the accident in the first 2 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord56.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "CameraRecord57.mp4", "Question": "Are there any pedestrians at the 5th frame of the video?", "label": "Yes"}
+{"Video": "CameraRecord57.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "CameraRecord57.mp4", "Question": "Does the road have lane markings at the 1st second of the video?", "label": "Yes"}
+{"Video": "CameraRecord57.mp4", "Question": "Was there a pedestrian crossing sign at the 2nd second of the video?", "label": "Yes"}
+{"Video": "CameraRecord57.mp4", "Question": "Did a white car have a collision with other cars in the first 2 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord57.mp4", "Question": "Did a truck get involved in the accident in the first 2 seconds of the video?", "label": "No"}
+{"Video": "CameraRecord57.mp4", "Question": "Did a white car get involved in an accident in the video?", "label": "No"}
+{"Video": "SurRecord1.mp4", "Question": "Did a truck appear at the 12th second of the video?", "label": "Yes"}
+{"Video": "SurRecord1.mp4", "Question": "Was any accident happened in the video?", "label": "No"}
+{"Video": "SurRecord1.mp4", "Question": "Please tell me if there is a red SUV at the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord1.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 13th second of the video.", "label": "Yes"}
+{"Video": "SurRecord1.mp4", "Question": "Is there a crossroad in the video?", "label": "No"}
+{"Video": "SurRecord1.mp4", "Question": "Tell me the position of fire hydrant in the video.", "label": "No"}
+{"Video": "SurRecord1.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "SurRecord2.mp4", "Question": "Did a white sedan have a collision with other cars in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord2.mp4", "Question": "Please tell me the time when the video was taken", "label": "No"}
+{"Video": "SurRecord2.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 3rd second of the video.", "label": "Yes"}
+{"Video": "SurRecord2.mp4", "Question": "Did a bycyclist wear helmat in the first 5 seconds of the video?", "label": "No"}
+{"Video": "SurRecord2.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord2.mp4", "Question": "Tell me the number of traffic signs appeared in the video.", "label": "Yes"}
+{"Video": "SurRecord2.mp4", "Question": "Please tell me all kinds of traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "SurRecord3.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord3.mp4", "Question": "Tell me if the road at the 2th second of this video have speed limit sign.", "label": "Yes"}
+{"Video": "SurRecord3.mp4", "Question": "Are there any emergency cars within the first two seconds of the video?", "label": "No"}
+{"Video": "SurRecord3.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "SurRecord3.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "SurRecord3.mp4", "Question": "Please tell me the location of fire hydrant in the video.", "label": "No"}
+{"Video": "SurRecord3.mp4", "Question": "Are there any bicycles in the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord4.mp4", "Question": "Are there any white cars at the 2nd second of the video?", "label": "Yes"}
+{"Video": "SurRecord4.mp4", "Question": "Please count the number of vehicles that were involved in the video.", "label": "Yes"}
+{"Video": "SurRecord4.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "SurRecord4.mp4", "Question": "Please inform me the number of cars turned left in the video.", "label": "No"}
+{"Video": "SurRecord4.mp4", "Question": "How many cars turned right in the whole video?", "label": "No"}
+{"Video": "SurRecord4.mp4", "Question": "Tell me the color of traffic signs at the first second of the video.", "label": "No"}
+{"Video": "SurRecord4.mp4", "Question": "Are there any pickups in the video?", "label": "Yes"}
+{"Video": "SurRecord5.mp4", "Question": "Did a truck appear at the 12th second of the video?", "label": "Yes"}
+{"Video": "SurRecord5.mp4", "Question": "How many vehicles appeared at the fifth second of the video?", "label": "Yes"}
+{"Video": "SurRecord5.mp4", "Question": "Tell me the location of traffic signs at the 7th second of the video?", "label": "No"}
+{"Video": "SurRecord5.mp4", "Question": "Are there any non-motorized vehicles passing through the driveway?", "label": "No"}
+{"Video": "SurRecord5.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "SurRecord5.mp4", "Question": "Is there any pedestrian crossing the road at the 10th second of the video?", "label": "No"}
+{"Video": "SurRecord5.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "SurRecord6.mp4", "Question": "Are there any non-motorized vehicles occupying the driveway?", "label": "No"}
+{"Video": "SurRecord6.mp4", "Question": "When was this video taken?", "label": "No"}
+{"Video": "SurRecord6.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 10th second of the video.", "label": "Yes"}
+{"Video": "SurRecord6.mp4", "Question": "Please let me know if there are traffic accidents in the video.", "label": "No"}
+{"Video": "SurRecord6.mp4", "Question": "Are there any pickups in the video?", "label": "Yes"}
+{"Video": "SurRecord6.mp4", "Question": "Can the surveillance video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "SurRecord6.mp4", "Question": "Please tell me if there is a red SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord7.mp4", "Question": "Tell me if there are any pedestrians in the 9th second of the video.", "label": "Yes"}
+{"Video": "SurRecord7.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "SurRecord7.mp4", "Question": "Please tell me the number of white cars that turned right in the video.", "label": "No"}
+{"Video": "SurRecord7.mp4", "Question": "Was there a collision between cars?", "label": "No"}
+{"Video": "SurRecord7.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "SurRecord7.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 13th second of the video.", "label": "Yes"}
+{"Video": "SurRecord7.mp4", "Question": "Are there any emergency cars within the first two seconds of the video?", "label": "No"}
+{"Video": "SurRecord8.mp4", "Question": "Is there any vehicle doing lane changing in the video?", "label": "No"}
+{"Video": "SurRecord8.mp4", "Question": "Did an accident happen at the 3rd second of the video?", "label": "No"}
+{"Video": "SurRecord8.mp4", "Question": "Please count the number of person wearing helmats in the video", "label": "No"}
+{"Video": "SurRecord8.mp4", "Question": "Tell me if there are any trees visible along the road in the video.", "label": "No"}
+{"Video": "SurRecord8.mp4", "Question": "Did a bycycle appear at the 12th second of the video?", "label": "Yes"}
+{"Video": "SurRecord8.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "SurRecord8.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "SurRecord9.mp4", "Question": "Please tell me if there is a black SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord9.mp4", "Question": "Was there a collision between cars?", "label": "No"}
+{"Video": "SurRecord9.mp4", "Question": "Provides me the number of lanes the road has in the first second of the video.", "label": "Yes"}
+{"Video": "SurRecord9.mp4", "Question": "Tell me if there is any car doing lane changing in the 4nd second of the video.", "label": "No"}
+{"Video": "SurRecord9.mp4", "Question": "Tell me the number of fire hydrants appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord9.mp4", "Question": "Did an accident happen at the 3rd second of the video?", "label": "No"}
+{"Video": "SurRecord9.mp4", "Question": "Please tell me the color of vehicles moving in the video", "label": "No"}
+{"Video": "SurRecord10.mp4", "Question": "Please tell me the color of truck at the 10th second of this video.", "label": "Yes"}
+{"Video": "SurRecord10.mp4", "Question": "Are there any periods of congestion in the video?", "label": "Yes"}
+{"Video": "SurRecord10.mp4", "Question": "Did a truck turn right in the video?", "label": "No"}
+{"Video": "SurRecord10.mp4", "Question": "Is there any traffic light violation?", "label": "No"}
+{"Video": "SurRecord10.mp4", "Question": "Are there any pedestrians at the 5th frame of the video?", "label": "Yes"}
+{"Video": "SurRecord10.mp4", "Question": "Please tell me the color of traffic lights at the first second of the video.", "label": "No"}
+{"Video": "SurRecord10.mp4", "Question": "Can the surveillance video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "SurRecord11.mp4", "Question": "Was there any accidents in the video?", "label": "No"}
+{"Video": "SurRecord11.mp4", "Question": "Please tell if there are trees along the road.", "label": "No"}
+{"Video": "SurRecord11.mp4", "Question": "Please count the number of sedans at the fifth second of the video and identify their color?", "label": "Yes"}
+{"Video": "SurRecord11.mp4", "Question": "Does the road have lane markings in the video?", "label": "Yes"}
+{"Video": "SurRecord11.mp4", "Question": "Please tell me if there is a red SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord11.mp4", "Question": "Did a white truck change its driving lane at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord11.mp4", "Question": "Please tell me the location of trucks in the video.", "label": "No"}
+{"Video": "SurRecord12.mp4", "Question": "Was there any emergency car in the video?", "label": "No"}
+{"Video": "SurRecord12.mp4", "Question": "Please tell me the ratio of trucks in this video at the 8th second.", "label": "Yes"}
+{"Video": "SurRecord12.mp4", "Question": "Is there a person crossing the crossroad at the fifth second of the video?", "label": "No"}
+{"Video": "SurRecord12.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "SurRecord12.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 10th second of the video.", "label": "Yes"}
+{"Video": "SurRecord12.mp4", "Question": "Please count the number of sedans in first five seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "SurRecord12.mp4", "Question": "Are there any non-motorized vehicles passing through the crossroad?", "label": "No"}
+{"Video": "SurRecord13.mp4", "Question": "Did a pedestrian try to cross a road illegally at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord13.mp4", "Question": "Did an accident happen at the 3rd second of the video?", "label": "No"}
+{"Video": "SurRecord13.mp4", "Question": "Is there a grey SUV at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord13.mp4", "Question": "Did a car surpass another car in the video?", "label": "No"}
+{"Video": "SurRecord13.mp4", "Question": "Please tell me the ratio of SUVs in this video at the 8th second.", "label": "Yes"}
+{"Video": "SurRecord13.mp4", "Question": "Please tell me if there was an accident in the video.", "label": "No"}
+{"Video": "SurRecord13.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord14.mp4", "Question": "Are there any motorcycle at the 10th second of the video?", "label": "Yes"}
+{"Video": "SurRecord14.mp4", "Question": "Was there any vehicle turn left in the video?", "label": "No"}
+{"Video": "SurRecord14.mp4", "Question": "Please tell me the ratio of sedans in this video at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord14.mp4", "Question": "Was there any motorcycles appear in the video?", "label": "Yes"}
+{"Video": "SurRecord14.mp4", "Question": "Did the accident happen in the video?", "label": "No"}
+{"Video": "SurRecord14.mp4", "Question": "Please count the number of blue sedans changing its lane in the video.", "label": "No"}
+{"Video": "SurRecord14.mp4", "Question": "Did any people cross the road at the 1st second of the video?", "label": "No"}
+{"Video": "SurRecord15.mp4", "Question": "Are there any bicycles within the last five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord15.mp4", "Question": "Please tell me if there was an accident in the video.", "label": "No"}
+{"Video": "SurRecord15.mp4", "Question": "Can the video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "SurRecord15.mp4", "Question": "Are there any emergency cars within the first two seconds of the video?", "label": "No"}
+{"Video": "SurRecord15.mp4", "Question": "Did a pickup start moving at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord15.mp4", "Question": "Are there any pickups in the video?", "label": "Yes"}
+{"Video": "SurRecord15.mp4", "Question": "Are there any SUVs within the first two seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord16.mp4", "Question": "Does the road have speed limit sign at the 8th second of the video?", "label": "Yes"}
+{"Video": "SurRecord16.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "SurRecord16.mp4", "Question": "How many cars turned right in the whole video?", "label": "No"}
+{"Video": "SurRecord16.mp4", "Question": "Please tell me the color of the traffic lights at the 10th second of the video?", "label": "No"}
+{"Video": "SurRecord16.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "SurRecord16.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "SurRecord16.mp4", "Question": "Please tell me the ratio of pickups in this video at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord17.mp4", "Question": "Do first 2 seconds of the video show any areas of potholes or uneven road surfaces?", "label": "No"}
+{"Video": "SurRecord17.mp4", "Question": "Please let me know if there are car accidents in the video.", "label": "No"}
+{"Video": "SurRecord17.mp4", "Question": "Are there any traffic sings appeared during the fifth second and the tenth second in this video? ", "label": "Yes"}
+{"Video": "SurRecord17.mp4", "Question": "Please tell me the location of fire hydrant in the video.", "label": "No"}
+{"Video": "SurRecord17.mp4", "Question": "Is there any vehicle doing lane changing in the video?", "label": "No"}
+{"Video": "SurRecord17.mp4", "Question": "Does the road have lane markings in the video?", "label": "Yes"}
+{"Video": "SurRecord17.mp4", "Question": "What is the type of vehicles at the 5th second video?", "label": "Yes"}
+{"Video": "SurRecord18.mp4", "Question": "How many vehicles appeared in the whole video?", "label": "Yes"}
+{"Video": "SurRecord18.mp4", "Question": "Provides me the number of lanes the road has in the first second of the video.", "label": "Yes"}
+{"Video": "SurRecord18.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "SurRecord18.mp4", "Question": "Did a green truck surpass other cars in the first 8 seconds of the video?", "label": "No"}
+{"Video": "SurRecord18.mp4", "Question": "Please tell me if any cars violate the traffic lights", "label": "No"}
+{"Video": "SurRecord18.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "SurRecord18.mp4", "Question": "Is there a grey SUV at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord19.mp4", "Question": "Is there a grey SUV at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord19.mp4", "Question": "Please tell me the ratio of pickups in this video at the 5th frame.", "label": "Yes"}
+{"Video": "SurRecord19.mp4", "Question": "Tell me the types of vehicles that did not move in the first two seconds of the video.", "label": "No"}
+{"Video": "SurRecord19.mp4", "Question": "Tell me if there is any car doing lane changing in the 4nd second of the video.", "label": "No"}
+{"Video": "SurRecord19.mp4", "Question": "Did a car surpass another car in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord19.mp4", "Question": "Are there any motorcycle at the 10th second of the video?", "label": "Yes"}
+{"Video": "SurRecord19.mp4", "Question": "Tell me if there is a black sedan turning right in the 3rd second of the video.", "label": "No"}
+{"Video": "SurRecord20.mp4", "Question": "Tell me the number of cars appeared in the video.", "label": "Yes"}
+{"Video": "SurRecord20.mp4", "Question": "Please tell me the location where the video was taken", "label": "No"}
+{"Video": "SurRecord20.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "SurRecord20.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "SurRecord20.mp4", "Question": "Is there a traffic jam in the video?", "label": "Yes"}
+{"Video": "SurRecord20.mp4", "Question": "Are there any white cars at the 2nd second of the video?", "label": "Yes"}
+{"Video": "SurRecord20.mp4", "Question": "Are there any visible road cracks present in the whole video?", "label": "No"}
+{"Video": "SurRecord21.mp4", "Question": "Please tell me the location where the video was taken.", "label": "No"}
+{"Video": "SurRecord21.mp4", "Question": "Did a vehicle violate the traffic light?", "label": "No"}
+{"Video": "SurRecord21.mp4", "Question": "Please tell me if there is a red SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord21.mp4", "Question": "Was there a black pickup stay still at the 2nd second of the video?", "label": "Yes"}
+{"Video": "SurRecord21.mp4", "Question": "Please inform me the number of cars turned left in the video.", "label": "No"}
+{"Video": "SurRecord21.mp4", "Question": "Please tell me if there was an accident in the video.", "label": "No"}
+{"Video": "SurRecord21.mp4", "Question": "Tell me if there are any pedestrians in the 9th second of the video.", "label": "Yes"}
+{"Video": "SurRecord22.mp4", "Question": "Are there any cars coming from opposite directions?", "label": "No"}
+{"Video": "SurRecord22.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "SurRecord22.mp4", "Question": "Are there any cars signalling left or right turn at the 3rd second of the video?", "label": "No"}
+{"Video": "SurRecord22.mp4", "Question": "Please tell me the traffic density condition on the road at the 5th second of the video.", "label": "Yes"}
+{"Video": "SurRecord22.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord22.mp4", "Question": "Are there any pickups in the video?", "label": "Yes"}
+{"Video": "SurRecord22.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord23.mp4", "Question": "Did any accident happen in the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord23.mp4", "Question": "Is there a crossroad in the video?", "label": "No"}
+{"Video": "SurRecord23.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord23.mp4", "Question": "Are there any pedestrians in the last 5 seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord23.mp4", "Question": "Please let me know the position of gas station in the video.", "label": "No"}
+{"Video": "SurRecord23.mp4", "Question": "Is there a grey car at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord23.mp4", "Question": "Tell me if there is any car doing lane changing in the 4nd second of the video.", "label": "No"}
+{"Video": "SurRecord24.mp4", "Question": "Please tell me the location where the video was taken.", "label": "No"}
+{"Video": "SurRecord24.mp4", "Question": "Do first 2 seconds of the video show any areas of potholes or uneven road surfaces?", "label": "No"}
+{"Video": "SurRecord24.mp4", "Question": "Are there any motorcycle at the 2nd second of the video?", "label": "Yes"}
+{"Video": "SurRecord24.mp4", "Question": "Did a red SUV turn right at the 5th seconds of the video?", "label": "No"}
+{"Video": "SurRecord24.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "SurRecord24.mp4", "Question": "Are there any fire hydrant at the 5th frame of the video?", "label": "Yes"}
+{"Video": "SurRecord24.mp4", "Question": "Tell me the type of traffic signs appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord25.mp4", "Question": "Tell me the number of cars that surpass the white SUV in the full video.", "label": "No"}
+{"Video": "SurRecord25.mp4", "Question": "Are there any bicycles within the first two seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord25.mp4", "Question": "Are there any non-motorized vehicles occupying the driveway?", "label": "No"}
+{"Video": "SurRecord25.mp4", "Question": "Please tell me the ratio of sedans in this video at the 8th second.", "label": "Yes"}
+{"Video": "SurRecord25.mp4", "Question": "When was this video taken?", "label": "No"}
+{"Video": "SurRecord25.mp4", "Question": "Was a pickup moving at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord25.mp4", "Question": "Please tell me the ratio of SUVs in this video at the 14th second.", "label": "Yes"}
+{"Video": "SurRecord26.mp4", "Question": "Do vehicles in the video appear to be complying with the traffic lights?", "label": "No"}
+{"Video": "SurRecord26.mp4", "Question": "Are there any bicycles within the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord26.mp4", "Question": "Can you detect water accumulation and slippery road conditions in the whole video?", "label": "No"}
+{"Video": "SurRecord26.mp4", "Question": "Please tell me if there is a red SUV in the 3th second the video.", "label": "Yes"}
+{"Video": "SurRecord26.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "SurRecord26.mp4", "Question": "Was there any red sedans turn right in the video?", "label": "No"}
+{"Video": "SurRecord26.mp4", "Question": "Are there any pickups within the last five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord27.mp4", "Question": "Do vehicles in the video appear to be complying with the traffic lights?", "label": "No"}
+{"Video": "SurRecord27.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord27.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "SurRecord27.mp4", "Question": "Please tell me if any non-motorized vehicles appear in the video.", "label": "Yes"}
+{"Video": "SurRecord27.mp4", "Question": "Please tell me the weather when the video was taken", "label": "No"}
+{"Video": "SurRecord27.mp4", "Question": "Did an accident happen in the video?", "label": "No"}
+{"Video": "SurRecord27.mp4", "Question": "Can the video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "SurRecord28.mp4", "Question": "Are there any white cars not moving at the 1st second of the video?", "label": "Yes"}
+{"Video": "SurRecord28.mp4", "Question": "Did a car surpass another car in the video?", "label": "No"}
+{"Video": "SurRecord28.mp4", "Question": "Please let me know if there are car accidents.", "label": "No"}
+{"Video": "SurRecord28.mp4", "Question": "Are there any traffic lights appeared during the fifth second and the tenth second in this video? ", "label": "Yes"}
+{"Video": "SurRecord28.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "SurRecord28.mp4", "Question": "Please tell me the location where the video was taken", "label": "No"}
+{"Video": "SurRecord28.mp4", "Question": "Tell me if there is a black SUV turning left in the 3rd second of the video.", "label": "No"}
+{"Video": "SurRecord29.mp4", "Question": "Did a pedestrain cross the road unsafely at the 3rd second of the video?", "label": "No"}
+{"Video": "SurRecord29.mp4", "Question": "Were the vehicles close to each other in the video?", "label": "No"}
+{"Video": "SurRecord29.mp4", "Question": "Did the accident happen in the video?", "label": "No"}
+{"Video": "SurRecord29.mp4", "Question": "Please tell me the ratio of sedans in this video at the 8th second.", "label": "Yes"}
+{"Video": "SurRecord29.mp4", "Question": "Tell me if there are any traffic sign in first five seconds of the video.", "label": "Yes"}
+{"Video": "SurRecord29.mp4", "Question": "Tell me the types of vehicles that did not move in the first two seconds of the video.", "label": "No"}
+{"Video": "SurRecord29.mp4", "Question": "Tell me the number of traffic lights appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord30.mp4", "Question": "Did a blue sedan change its driving lane in the video?", "label": "No"}
+{"Video": "SurRecord30.mp4", "Question": "Did a car turn right at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord30.mp4", "Question": "Please tell me the location where the video was taken.", "label": "No"}
+{"Video": "SurRecord30.mp4", "Question": "Provide me the number of bicycles appeared at the 13th second of the video.", "label": "Yes"}
+{"Video": "SurRecord30.mp4", "Question": "Please tell me the weather when the video was taken", "label": "No"}
+{"Video": "SurRecord30.mp4", "Question": "Is there a pedestrian in the video?", "label": "Yes"}
+{"Video": "SurRecord30.mp4", "Question": "Tell me if the road in this video have speed limit sign.", "label": "Yes"}
+{"Video": "SurRecord31.mp4", "Question": "Are there any buses in the video?", "label": "Yes"}
+{"Video": "SurRecord31.mp4", "Question": "Please tell me the ratio of SUVs in this video at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord31.mp4", "Question": "Are there any emergency cars within the first two seconds of the video?", "label": "No"}
+{"Video": "SurRecord31.mp4", "Question": "Are there any pickups changing its driving lane?", "label": "No"}
+{"Video": "SurRecord31.mp4", "Question": "Do vehicles in the video appear to be complying with the traffic signs?", "label": "No"}
+{"Video": "SurRecord31.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord31.mp4", "Question": "Is there a grey car at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord32.mp4", "Question": "Do first 2 seconds of the video show any areas of potholes or uneven road surfaces?", "label": "No"}
+{"Video": "SurRecord32.mp4", "Question": "Did a car change its lane in the video?", "label": "No"}
+{"Video": "SurRecord32.mp4", "Question": "Did a red vehicle violate any traffic signs?", "label": "No"}
+{"Video": "SurRecord32.mp4", "Question": "Please tell me all the traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "SurRecord32.mp4", "Question": "Are there any visible road cracks present in the whole video?", "label": "No"}
+{"Video": "SurRecord32.mp4", "Question": "Please count the number of sedans in first five seconds of the video and identify their color?", "label": "Yes"}
+{"Video": "SurRecord32.mp4", "Question": "How many vehicles appeared in the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord33.mp4", "Question": "Provide me the number of cars appeared at the 13th second of the video.", "label": "Yes"}
+{"Video": "SurRecord33.mp4", "Question": "Did a black SUV driving at the opposite direction in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord33.mp4", "Question": "Tell me the position of white SUV appear in the video.", "label": "No"}
+{"Video": "SurRecord33.mp4", "Question": "Tell me the number of motorcycles appeared at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord33.mp4", "Question": "Tell me all types of vehicles appeared at the 5th second of the video.", "label": "Yes"}
+{"Video": "SurRecord33.mp4", "Question": "Tell me the number of cars stop along the road in the full video.", "label": "No"}
+{"Video": "SurRecord33.mp4", "Question": "Did a white car have a collision with other cars in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord34.mp4", "Question": "Are there any black cars at the 3rd frame of the video?", "label": "Yes"}
+{"Video": "SurRecord34.mp4", "Question": "Are there any White SUV turning right in the video?", "label": "No"}
+{"Video": "SurRecord34.mp4", "Question": "Please count the number of sedans at the fifth second of the video and identify their color?", "label": "Yes"}
+{"Video": "SurRecord34.mp4", "Question": "Are there any traffic lights appeared during the fifth second and the tenth second in this video? ", "label": "Yes"}
+{"Video": "SurRecord34.mp4", "Question": "Tell me if there is any car doing lane changing in the 4nd second of the video.", "label": "No"}
+{"Video": "SurRecord34.mp4", "Question": "Please tell me the location of the traffic lights in the video.", "label": "No"}
+{"Video": "SurRecord34.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord35.mp4", "Question": "Please tell me the location where the video was taken.", "label": "No"}
+{"Video": "SurRecord35.mp4", "Question": "When was this video taken?", "label": "No"}
+{"Video": "SurRecord35.mp4", "Question": "Did any vehicles change its driving lane at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord35.mp4", "Question": "Provides me the number of lanes the road has in the first second of the video.", "label": "Yes"}
+{"Video": "SurRecord35.mp4", "Question": "Tell me if the road at the 2th second of this video have speed limit sign.", "label": "Yes"}
+{"Video": "SurRecord35.mp4", "Question": "Was there any accident in the video?", "label": "No"}
+{"Video": "SurRecord35.mp4", "Question": "How many vehicles appeared in the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord36.mp4", "Question": "Are there any bicycles in the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord36.mp4", "Question": "Are there any White SUV turning right within the first two seconds of the video?", "label": "No"}
+{"Video": "SurRecord36.mp4", "Question": "Are there any pedestrians at the 5th frame of the video?", "label": "Yes"}
+{"Video": "SurRecord36.mp4", "Question": "Was there an accident in the video?", "label": "No"}
+{"Video": "SurRecord36.mp4", "Question": "Please tell me if there was an accident in the video.", "label": "No"}
+{"Video": "SurRecord36.mp4", "Question": "Please tell me if any fire hydrant appeared in the video.", "label": "Yes"}
+{"Video": "SurRecord36.mp4", "Question": "Are there any visible road cracks present in the whole video?", "label": "No"}
+{"Video": "SurRecord37.mp4", "Question": "Can the video identify peeling, loosening, or wear of road materials?", "label": "No"}
+{"Video": "SurRecord37.mp4", "Question": "Did a white SUV start moving at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord37.mp4", "Question": "Tell me the position of gas station in the video?", "label": "No"}
+{"Video": "SurRecord37.mp4", "Question": "Please tell me the number of cars in this video at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord37.mp4", "Question": "Provides me the number of lanes the road has at the first second of the video.", "label": "Yes"}
+{"Video": "SurRecord37.mp4", "Question": "Tell me if there are any pedestrian related traffic sign in first five seconds of the video.", "label": "Yes"}
+{"Video": "SurRecord37.mp4", "Question": "Tell me the types of vehicles that did not move in the first two seconds of the video.", "label": "No"}
+{"Video": "SurRecord38.mp4", "Question": "What types of traffic signs are visible in the whole video?", "label": "Yes"}
+{"Video": "SurRecord38.mp4", "Question": "Is there any bus changing its lane at the 10th second of the video?", "label": "No"}
+{"Video": "SurRecord38.mp4", "Question": "Tell me the number of moving cars at the 5th second of the video?", "label": "Yes"}
+{"Video": "SurRecord38.mp4", "Question": "Did a truck start moving at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord38.mp4", "Question": "Was there any police car around at the 1st second of the video?", "label": "No"}
+{"Video": "SurRecord38.mp4", "Question": "Can you quantify the vehicle density during the first five seconds of the video?", "label": "Yes"}
+{"Video": "SurRecord38.mp4", "Question": "Please inform me the number of cars change its driving lane in the video.", "label": "No"}
+{"Video": "SurRecord39.mp4", "Question": "Provides me the number of lanes the road has in the first 3 seconds of the video.", "label": "Yes"}
+{"Video": "SurRecord39.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord39.mp4", "Question": "Tell me if there are any sedans visible along the road in the video.", "label": "No"}
+{"Video": "SurRecord39.mp4", "Question": "Please tell all the traffic signs appear at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord39.mp4", "Question": "Are there any instances of people or cyclists entering motor vehicle lanes unsafely?", "label": "No"}
+{"Video": "SurRecord39.mp4", "Question": "Please tell me all type of traffic signs appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "SurRecord39.mp4", "Question": "Did a pickup surpass another car in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord40.mp4", "Question": "Tell me the number of trucks appeared in the video.", "label": "Yes"}
+{"Video": "SurRecord40.mp4", "Question": "What is the surrounding environment like at the 4th second of the video?", "label": "No"}
+{"Video": "SurRecord40.mp4", "Question": "Is the emergency lane being misused at the 5th second of the video?", "label": "No"}
+{"Video": "SurRecord40.mp4", "Question": "Please tell me the proportion of each type of vehicle at the 10th second of the video.", "label": "Yes"}
+{"Video": "SurRecord40.mp4", "Question": "Did an accident happen in the first second of this video?", "label": "No"}
+{"Video": "SurRecord40.mp4", "Question": "Was there a collision between cars?", "label": "No"}
+{"Video": "SurRecord40.mp4", "Question": "Are there any pedestrians at the 5th frame of the video?", "label": "Yes"}
+{"Video": "SurRecord41.mp4", "Question": "Tell me if there was an accident in the 1st second of the video.", "label": "No"}
+{"Video": "SurRecord41.mp4", "Question": "Tell me if there is any car doing lane changing in the 2nd second of the video.", "label": "No"}
+{"Video": "SurRecord41.mp4", "Question": "Does the road have lane markings at the 1st second of the video?", "label": "Yes"}
+{"Video": "SurRecord41.mp4", "Question": "Did a car misused the emergency lane in the first 2 seconds of the video?", "label": "No"}
+{"Video": "SurRecord41.mp4", "Question": "Are there any trees along the road?", "label": "No"}
+{"Video": "SurRecord41.mp4", "Question": "Please tell me the ratio of trucks in this video at the 5th second.", "label": "Yes"}
+{"Video": "SurRecord41.mp4", "Question": "Are there any motorcycle at the 10th second of the video?", "label": "Yes"}
+{"Video": "SurRecord42.mp4", "Question": "What is the surrounding environment like at the 5th frame of the video?", "label": "No"}
+{"Video": "SurRecord42.mp4", "Question": "Are there any motorcycle at the 5th frame of the video?", "label": "Yes"}
+{"Video": "SurRecord42.mp4", "Question": "Please tell me all the traffic signs appear in the whole video.", "label": "Yes"}
+{"Video": "SurRecord42.mp4", "Question": "Tell me if the road at the 10th second of this video have speed limit sign.", "label": "Yes"}
+{"Video": "SurRecord42.mp4", "Question": "Please let me know if there are car accidents.", "label": "No"}
+{"Video": "SurRecord42.mp4", "Question": "Did any pickups surpass other cars in the video?", "label": "No"}
+{"Video": "SurRecord42.mp4", "Question": "What was the weather like when the video was taken?", "label": "No"}
+{"Video": "SurRecord43.mp4", "Question": "Please let me know if there are car accidents.", "label": "No"}
+{"Video": "SurRecord43.mp4", "Question": "Is there a white SUV at the 5th frame in this video?", "label": "Yes"}
+{"Video": "SurRecord43.mp4", "Question": "Are there any black cars in the video?", "label": "Yes"}
+{"Video": "SurRecord43.mp4", "Question": "Tell me the number of cars appeared at the 3rd second of the video.", "label": "Yes"}
+{"Video": "SurRecord43.mp4", "Question": "Are there any cars stop along the road in the video?", "label": "No"}
+{"Video": "SurRecord43.mp4", "Question": "Can you detect water accumulation and slippery road conditions in the whole video?", "label": "No"}
+{"Video": "SurRecord43.mp4", "Question": "Please tell me the location where the video was taken", "label": "No"}
